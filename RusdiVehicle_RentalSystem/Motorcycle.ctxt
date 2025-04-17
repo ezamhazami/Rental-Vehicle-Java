@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Motorcycle
+comment1.params=brand\ name\ year\ availability\ cc
+comment1.target=Motorcycle(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getCc()
+comment3.params=cc
+comment3.target=void\ setCc(int)
+comment4.params=
+comment4.target=double\ detPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

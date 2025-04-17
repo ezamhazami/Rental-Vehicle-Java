@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NonCitizen
+comment1.params=name\ noPhone\ email\ password\ passportNumber
+comment1.target=NonCitizen(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPassportNumber()
+comment3.params=passportNumber
+comment3.target=void\ setPassportNumber(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

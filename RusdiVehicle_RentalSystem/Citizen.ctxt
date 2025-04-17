@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Citizen
+comment1.params=name\ noPhone\ email\ password\ citizenId
+comment1.target=Citizen(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getcitizenID()
+comment3.params=citizenId
+comment3.target=void\ setcitizenId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

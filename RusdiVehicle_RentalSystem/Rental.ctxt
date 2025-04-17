@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Rental
+comment1.params=tenantEmail\ rentDate\ returnDate\ rentedVehicle
+comment1.target=Rental(java.lang.String,\ java.time.LocalDate,\ java.time.LocalDate,\ java.lang.String)
+comment10.params=
+comment10.target=long\ calculateTotalDays()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getTenantEmail()
+comment3.params=
+comment3.target=java.time.LocalDate\ getRentDate()
+comment4.params=
+comment4.target=java.time.LocalDate\ getReturnDate()
+comment5.params=
+comment5.target=java.lang.String\ getRentedVehicle()
+comment6.params=tenantEmail
+comment6.target=void\ setTenantEmail(java.lang.String)
+comment7.params=rentDate
+comment7.target=void\ setRentDate(java.time.LocalDate)
+comment8.params=returnDate
+comment8.target=void\ setReturnDate(java.time.LocalDate)
+comment9.params=rentedVehicle
+comment9.target=void\ setRentedVehicle(java.lang.String)
+numComments=12
